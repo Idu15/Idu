@@ -2,7 +2,7 @@
 public class Prisma {
 	
 	/**
-	 * Clase Prisma
+	 * Clase Prisma 
 	 */
 	
     int baseTriangulo;
