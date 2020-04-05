@@ -1,5 +1,10 @@
 
 public class Prisma {
+	
+	/**
+	 * Clase Prisma
+	 */
+	
     int baseTriangulo;
     int alturaPrisma;
 
